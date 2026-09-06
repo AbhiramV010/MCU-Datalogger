@@ -1,0 +1,5 @@
+# Force GitHub Linguist to track and display KiCad files in language stats
+*.kicad_sch      linguist-detectable
+*.kicad_pcb      linguist-detectable
+*.kicad_mod      linguist-detectable
+*.kicad_sym      linguist-detectable
