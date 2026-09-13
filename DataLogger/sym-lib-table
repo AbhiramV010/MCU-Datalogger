@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "DS1337") (type "KiCad") (uri "Z:/DS1337/DS1337.kicad_sym") (options "") (descr ""))
+	(lib (name "ATMEGA328P-AU") (type "KiCad") (uri "Z:/ATMEGA328P-AU") (options "") (descr ""))
+)
